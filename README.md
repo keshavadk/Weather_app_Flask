@@ -1,1 +1,1 @@
-# Weather_app_Flask
+# Weather Application Using Python's Flask webframework and Open weather Map API.

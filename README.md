@@ -15,4 +15,4 @@ Step 2: Creating the Main App code with the API request
 
 Step 3: Creating the 2 pages for the App (Main and Result) with Jinja, HTML, and CSS
 
-Step 4: Deploying and testing on your local laptop
+Step 4: Deploying and testing on your local Machine.
